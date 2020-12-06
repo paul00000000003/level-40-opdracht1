@@ -1,0 +1,19 @@
+.scoremogelijkheden {
+    display: flex;
+    justify-content: space-around
+}
+
+.li-nav {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+.link {
+    text-decoration: none;
+    // transition: color 1000ms ease-in;
+}
+
+.link:hover {
+    font-weight: bold;
+    color: orange;
+}

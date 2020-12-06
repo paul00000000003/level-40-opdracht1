@@ -1,0 +1,34 @@
+.opdrachtenDisplay {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[5];
+      grid-template-columns: repeat(5, 1fr);
+  -ms-grid-rows: (1fr)[5];
+      grid-template-rows: repeat(5, 1fr);
+}
+
+.vinkjes {
+  list-style-type: none;
+}
+
+.ullijstje {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[5];
+      grid-template-columns: repeat(5, 1fr);
+  -ms-grid-rows: (1fr)[5];
+      grid-template-rows: repeat(5, 1fr);
+}
+
+.maakbold {
+  font-weight: bold;
+}
+
+.linkklas {
+  color: black;
+}
+
+.soortscore {
+  width: 100px;
+}
+/*# sourceMappingURL=weergavePerOpdracht.css.map */

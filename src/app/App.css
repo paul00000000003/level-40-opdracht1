@@ -1,0 +1,22 @@
+.scoremogelijkheden {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.li-nav {
+  list-style-type: none;
+  font-size: 30px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  font-weight: bold;
+  color: orange;
+}
+/*# sourceMappingURL=App.css.map */
